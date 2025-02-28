@@ -57,56 +57,57 @@ export default function D3Calculator() {
     2: { // Taurus body parts
       first: 'வலது கண்',
       second: 'இடது விலா',
-      third: 'வலது பக்க இனப்பெருக்க உறுப்பு'
+      third: 'வலது கண்ணுக்கால'
     },
     3: { // Gemini body parts
       first: 'வலது காது',
       second: 'இடது கை',
-      third: 'வலது விரைப்பை'
+      third: 'பாதம்'// changed
     },
     4: { // Cancer body parts
       first: 'வலது நாசி',
       second: 'இடது தோள்ப்பட்டை',
-      third: 'வலது தொடை'
+      third: 'இடது கண்ணுக்கால' //changed
     },
     5: { // Leo body parts
       first: 'வலது கன்னம்',
-      second: 'வலது மார்பு',
-      third: 'இடது முழங்கால்'
+      second: 'கழுத்து', // changed
+      third: 'இடது முழங்கால்' 
+      
     },
     6: { // Virgo body parts
       first: 'வலது தாடை',
-      second: 'வலது பக்க வயிறு',
+      second: 'வலது தோள்பட்டை', //changed
       third: 'இடது தொடை'
     },
     7: { // Libra body parts
       first: 'முகம்',
-      second: 'தொப்புள்',
-      third: 'பாதம்'
+      second: 'வலது கை', //changed
+      third: 'இடது விறைப்பை' //changed
     },
     8: { // Scorpio body parts
       first: 'இடது தாடை',
-      second: 'இடது பக்க வயிறு',
-      third: 'இடது கண்ணுக்கால'
+      second: 'வலது விலா', // changed
+      third: ' இடது பக்க இனப்பெருக்க உறுப்பு' // changed
     },
     9: { // Sagittarius body parts
       first: 'இடது கன்னம்',
-      second: 'இடது மார்பு',
-      third: 'இடது முழங்கால்'
+      second:'வலது மார்பு', // changed
+      third: 'இனப்பெருக்க உறுப்பு மேல் பகுதி' //changed
     },
     10: { // Capricorn body parts
       first: 'இடது நாசி',
-      second: 'இடது விலா',
+      second: 'வலது பக்க வயிறு', // changed
       third: 'வலது பக்க இனப்பெருக்க உறுப்பு'
     },
     11: { // Aquarius body parts
       first: 'இடது காது',
-      second: 'இடது கை',
+      second: 'தொப்புள்', // changed
       third: 'வலது விரைப்பை'
     },
     12: { // Pisces body parts
       first: 'இடது கண்',
-      second: 'இடது தோள்ப்பட்டை',
+      second: 'இடது பக்க வயிறு',
       third: 'வலது தொடை'
     }
   };
